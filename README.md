@@ -1,5 +1,6 @@
 # project-unity-rpg-project-proposal
 project-unity-rpg created by GitHub Classroom
+
 __**Project Proposal:**__
 
 __**Title:**__ Unity RPG
@@ -45,7 +46,7 @@ __**Test Plan (1 paragraph)**__
 
 Our plan to test our game will be to make sure all the features work. Our beta testing will include putting in dev cheats to jump to certain stages and parts of the levels to test stages and boss mechanics. We will also allow our friends and family to playtest the game, so we get more opinions about its playability. We will then ask questions according to whether they enjoyed playing the game, what they would want the game to include, whether they encountered any bugs, etc. Then, according to their feedback, we will improve the game mechanics and we will repeat this process until the game is completed. Afterwards, we will go through a few more tests for debugging the game until we officially publish the game. 
 
---**How to Test**__
+__**How to Test**__
 1. git clone this repository
 2. Open Unity Hub
 3. Choose to Add a Project
