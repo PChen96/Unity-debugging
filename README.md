@@ -1,4 +1,4 @@
-# project-unity-rpg
+# project-unity-rpg-project-proposal
 project-unity-rpg created by GitHub Classroom
 Project Proposal:
 
